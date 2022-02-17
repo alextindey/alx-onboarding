@@ -1,0 +1,7 @@
+let sum = 1
+let result = sum + number
+
+if result > 0
+   print number + sum
+   else if result < 0
+   print final result = result
